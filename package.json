@@ -1,8 +1,9 @@
 {
 	"name": "@refzlund/async-builder",
-	"version": "0.9.0",
+	"version": "0.9.1",
 	"description": "Following the builder-pattern this utility allows you to create asynchronous functions that can be used in a promise chain.",
 	"main": "index.js",
+	"type": "module",
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/@refzlund"
 	},
