@@ -1,5 +1,5 @@
 {
-	"name": "async-builder",
+	"name": "@refzlund/async-builder",
 	"version": "0.9.0",
 	"description": "Following the builder-pattern this utility allows you to create asynchronous functions that can be used in a promise chain.",
 	"main": "index.js",
